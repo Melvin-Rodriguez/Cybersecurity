@@ -7,6 +7,15 @@
 
 :heavy_check_mark: **Disponibilidad:** los usuarios autorizados deben poder acceder a los datos siempre que lo necesiten.
 
-*Review the readings below
-- [CSO](https://www.csoonline.com/article/3519908/the-cia-triad-definition-components-and-examples.html)
-- [WhatIs](https://www.techtarget.com/whatis/definition/Confidentiality-integrity-and-availability-CIA)
+
+
+# Tipos de hackers
+- White hat
+- Black hat
+- Grey hat
+- Blue hat o script-kiddie
+- Hacktivistas
+
+# Equipos de ciberseguridad
+- Red team
+- Blue team
